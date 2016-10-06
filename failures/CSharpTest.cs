@@ -29,7 +29,7 @@ namespace NUnit.Samples
 		[SetUp] public void Init() 
 		{
 			fValue1= 2;
-			fValue2= 3;
+			fValue2= 5;
 		}
 
 		/// <summary>
