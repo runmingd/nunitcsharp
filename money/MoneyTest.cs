@@ -6,13 +6,13 @@
 
 namespace NUnit.Samples.Money 
 {
-	using System;
-	using NUnit.Framework;
-	/// <summary>
-	/// 
-	/// </summary>
-	/// 
-	[TestFixture]
+    using System;
+    using NUnit.Framework;
+    /// <summary>
+    /// 
+    /// </summary>
+    /// 
+    [TestFixture]
 	public class MoneyTest 
 	{
 		private Money f12CHF;
